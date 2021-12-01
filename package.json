@@ -2,7 +2,6 @@
   "name": "nc-maz",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chisnghiax.com/ncmaz",
   "dependencies": {
     "@craco/craco": "^6.1.2",
     "@glidejs/glide": "^3.4.1",
